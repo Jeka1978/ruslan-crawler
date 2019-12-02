@@ -1,0 +1,5 @@
+crawler:
+  sites:
+    job_ils: www.job.co.il
+    job_search: www.jobs.com
+
